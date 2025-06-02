@@ -1,6 +1,5 @@
+<img src="./ViceCity.png" alt="banner" style="width:100%;"/>
 
-
-### Hi there! I'm Alejandro Rupérez 👋
 
 🔄 I transitioned from IT infrastructure to software development because I’d rather build solutions than reboot servers  
 👨‍💻 Currently working as a Software Developer at ASPA Consulting with SAP ABAP and Java Spring  
